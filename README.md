@@ -17,7 +17,7 @@ sample_project
 │   └── do_something.py
 ├── archive
 │   └── previous_versions.ipynb
-├── utils
+└── utils
     └── do_something_utils.py
 ```
 
